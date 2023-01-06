@@ -1,2 +1,2 @@
 # odin-recipes
-reciples
+recipes
